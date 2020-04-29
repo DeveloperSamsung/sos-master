@@ -8,4 +8,4 @@
 |Choi_person|[choi-person](https://github.com/choi-person/sos-master)|
 |Kimheesung|[kimheesung](https://github.com/kimheesung/sos-master)|
 |Seokjin|[cpdim001](https://github.com/cpdim001/sos-master)|
-|Daeho_person|[SamsungDeveloper](https://github.com/SamsungDeveloper/sos-master)|
+|Daeho_person|[DeveloperSamsung](https://github.com/DeveloperSamsung/sos-master)|
